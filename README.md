@@ -1,7 +1,7 @@
 # 🎯 Anderson Gomes
 
 
- Olá, eu sou Anderson Gomes e estudo Ciências da Computação na UNIFBV. Tenho experiência em Python e C++, incluindo programação orientada a objetos, manipulação de dados e criação de soluções escaláveis. Além disso, possuo sólida experiência em JavaScript, utilizando frameworks e bibliotecas como React e TypeScript para desenvolver aplicações web interativas, gerenciar dados e otimizar a experiência do usuário. Também aplico ferramentas como NumPy, Pandas, Matplotlib e SciPy para análise e visualização de dados em projetos que envolvem ciência de dados e automação. 
+ Olá, eu sou Anderson Gomes e estudo Ciências da Computação na UNIFBV. Tenho experiência em Java e Python, incluindo programação orientada a objetos e criação de soluções escaláveis. Além disso, possuo sólida experiência em JavaScript, com foco em React Native para o desenvolvimento de aplicações mobile interativas e multiplataforma, além de utilizar TypeScript para aprimorar a qualidade e a manutenibilidade do código. Também possuo conhecimentos em SAP, aplicados em projetos que envolvem integração de sistemas e soluções empresariais.
 
 <p align="left">
     <a href="https://github.com/3471anderson?tab=followers">
